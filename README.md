@@ -2,7 +2,8 @@
 
 Dans cette scène, nous avons un décor mystérieux et proche de la réalité. La scène représente un fond marin constitué de poissons, de coraux et d’algues. Au milieu de la scène nous y trouvons un coffre à l’intérieur d’un bloc de vitre. Ici, nous pouvons nous imaginer qu’il sera débloqué éventuellement. Ensuite, nous pouvons apercevoir un bureau ainsi qu’une chaise et une perle miroir assise sur le bureau. 
 
-!(https://lh3.googleusercontent.com/pw/AMWts8CMxePTBqBRmSYnqjrhWgMuN02wwQ-tuTT1vDfpykMFMmkMXyYR50X0odrC5GYI_9tpXICtYnCTPusOXq4FnZmbTB3exWuSdEvAo9umir8Y4gmNJ80rceugZfIcq0NznunPDMGRcjohQJF46clraCJv=w1512-h569-no?authuser=0)
+![image](https://user-images.githubusercontent.com/117289138/218927849-a3ff2faa-6afa-4868-a493-391e7d401613.png)
+
 
 Dans cette capture d’écran, nous pouvons voir le nom du projet, le nom de la scène, la version de unity et la dimension du terrain qui est conforme aux exigences.
  
